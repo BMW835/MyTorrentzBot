@@ -5,20 +5,7 @@
     <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_MyTorrentzBot.-227692049.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="MyTorrentzBot" t="IncludeRecursive">
-        <e p="MyTorrentzBot.csproj" t="IncludeRecursive" />
-        <e p="Program.cs" t="Include" />
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp2.2" t="Include">
-              <e p="MyTorrentzBot.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-      </e>
       <e p="MyTorrentzBot.sln" t="IncludeFlat" />
-      <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
